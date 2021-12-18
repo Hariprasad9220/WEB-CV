@@ -145,6 +145,6 @@ a:hover {
   padding: 20px 0 ;
 }
 .profile {
-  height:221px;
-  width:221px;
+  width:100%;
+  Height:auto;
 }
